@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @er1cdmelo
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML5 + CSS
+- 🌱 I’m currently learning JavaScript!
 
 
 <!---
