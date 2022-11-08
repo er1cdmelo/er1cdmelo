@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eric</h1>
 <h3 align="center">A frontend student from Brazil.</h3>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ReactJS** & **NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://ericdemelo.vercel.app/](https://ericdemelo.vercel.app/)
 
