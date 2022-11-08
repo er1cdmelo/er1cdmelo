@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **ericm5375@gmail.com**
+- 📫 How to reach me **contato@ericdemelo.com.br**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
