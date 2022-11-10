@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/Qv48zPW/ericmelo-cover.gif" align="center" style="width: 100%" />
+<img src="https://i.ibb.co/Qv48zPW/ericmelo-cover.gif" align="center" style="width: 50%" />
 </div>  
 
 # Hi 👋, I'm Eric
