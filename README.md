@@ -1,8 +1,8 @@
+# Hi 👋, I'm Eric
+
 <div align="center">
 <img src="https://i.ibb.co/Qv48zPW/ericmelo-cover.gif" align="center" style="width: 50%" />
-</div>  
-
-# Hi 👋, I'm Eric
+</div>
 
 # 💫 About Me:
 🌱 I’m currently learning ReactJS & NodeJS<br><br>👨‍💻 All of my projects are available at https://ericdemelo.vercel.app/<br><br>💬 Ask me about JavaScript<br><br>📫 How to reach me: contato@ericdemelo.com.br
