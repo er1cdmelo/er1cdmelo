@@ -1,5 +1,3 @@
-# Hi 👋, I'm Eric
-
 <div align="center">
 <img src="https://i.ibb.co/Qv48zPW/ericmelo-cover.gif" align="center" style="width: 50%" />
 </div>
