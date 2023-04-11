@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-🌱 I’m currently learning ReactJS & NodeJS<br><br>👨‍💻 All of my projects are available at https://ericdemelo.vercel.app/<br><br>💬 Ask me about JavaScript<br><br>📫 How to reach me: contato@ericdemelo.com.br
+🌱 I’m currently learning ReactJS & NodeJS<br><br>👨‍💻 All of my projects are available at [my portfolio](https://www.ericdemelo.com.br/)<br><br>💬 Ask me about JavaScript<br><br>📫 How to reach me: contato@ericdemelo.com.br
 
 
 ## 🌐 Socials:
