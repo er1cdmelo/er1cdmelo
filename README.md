@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-🌱 I’m currently learning Flutter<br><br>👨‍💻 All of my projects are available at [my portfolio](https://www.ericdemelo.com.br/)<br><br>💬 Ask me about JavaScript<br><br>📫 How to reach me: contato@ericdemelo.com.br
+🌱 I’m currently learning Flutter<br><br>👨‍💻 Some of my best projects are available at [my portfolio](https://www.ericdemelo.com.br/)<br><br>💬 Ask me about JavaScript<br><br>📫 How to reach me: ericm5375@gmail.com
 
 
 ## 🌐 Socials:
